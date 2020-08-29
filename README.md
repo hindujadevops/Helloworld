@@ -16,5 +16,5 @@ Today is aug 29
 
 Connecting to octopus 2.1
 
-Changes for Azure devops 1
+Changes for Azure devops 2
 
