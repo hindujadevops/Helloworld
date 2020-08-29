@@ -14,3 +14,5 @@ deploying changes from Jenkins to Octopus
 
 Today is aug 29
 
+Connecting to octopus 2.1
+
